@@ -1,0 +1,7 @@
+﻿  moc Setting.h
+  LogTest.cpp
+  Setting.cpp
+  main.cpp
+  moc_LogTest.cpp
+  moc_Setting.cpp
+  LogTest.vcxproj -> C:\Users\NEGAR\source\repos\LogTest\x64\Debug\LogTest.exe
